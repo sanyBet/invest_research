@@ -22,13 +22,13 @@ KOYÉ 的经济模型将分为两个阶段：
 
 在第一阶段中玩家可以通过在游戏中收集NFT碎片，合成一整个MINI KOYE NFT。一旦10000 个 MINI KOYE NFT 全部释放，游戏将切换到第二阶段。
 
-![Untitled](KOYE%CC%81%EF%BC%9A%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%AC%A1%E6%97%B6%E4%BB%A3%E6%8D%95%E9%B1%BC%E6%B8%B8%E6%88%8F%207bca0753eacf4d3f8d9cee19067bc0bd/Untitled.png)
+![Untitled](../02_KOY%C3%89%EF%BC%9A%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%AC%A1%E6%97%B6%E4%BB%A3%E6%8D%95%E9%B1%BC%E6%B8%B8%E6%88%8F_GameFi/img/Untitled.png)
 
 **阶段二**
 
 在第二阶段中，经济模型将转为代币系统。玩家可以获得游戏代币，包括$GSO 和治理代币 $KOYE，享受游戏股权币分红。
 
-![Untitled](KOYE%CC%81%EF%BC%9A%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%AC%A1%E6%97%B6%E4%BB%A3%E6%8D%95%E9%B1%BC%E6%B8%B8%E6%88%8F%207bca0753eacf4d3f8d9cee19067bc0bd/Untitled%201.png)
+![Untitled](./img/Untitled%201.png)
 
 ### MINI KOYÉ NFT
 
@@ -41,7 +41,7 @@ MINI KOYÉ 是由10000个可爱的蝾螈精灵组成的NFT 系列，形象丰�
 - Koyeverse指定后续项目优先购买权
 - 获得更多金币
 
-![Untitled](KOYE%CC%81%EF%BC%9A%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%AC%A1%E6%97%B6%E4%BB%A3%E6%8D%95%E9%B1%BC%E6%B8%B8%E6%88%8F%207bca0753eacf4d3f8d9cee19067bc0bd/Untitled%202.png)
+![Untitled](./img/Untitled%202.png)
 
 ### $KOYE币
 
@@ -61,7 +61,7 @@ $KOYE币相当于KOYÉ的股权，其市值由NFT价值和游 戏收益共同�
 
 ## 融资策略
 
-![Untitled](KOYE%CC%81%EF%BC%9A%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%AC%A1%E6%97%B6%E4%BB%A3%E6%8D%95%E9%B1%BC%E6%B8%B8%E6%88%8F%207bca0753eacf4d3f8d9cee19067bc0bd/Untitled%203.png)
+![Untitled](./img/Untitled%203.png)
 
 ## 愿景
 

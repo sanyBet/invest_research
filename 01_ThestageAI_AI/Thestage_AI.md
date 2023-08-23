@@ -4,21 +4,16 @@
 
 对接人员：Alex, Kirill - Young
 
-## 1. 简介
+## 目录
 
-## 2. 团队
-
-## 3. 核心技术
-
-## 4. Demo介绍
-
-## 5. 开发进展
-
-## 6. 竞品分析
-
-## 7. 融资需求
-
-## 8. 媒体
+1. 简介
+2. 团队
+3. 核心技术
+4. Demo介绍
+5. 开发进展
+1. 竞品分析
+2. 融资需求
+3. 媒体
 
 ## 1. 简介
 
@@ -38,9 +33,9 @@ Ruslan A：首席Ai架构师
 
 Irina Z：Phd，资深Ai科学家
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled.png)
+![Untitled](../01_ThestageAI_AI/img/Untitled.png)
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%201.png)
+![Untitled](../01_ThestageAI_AI/img/Untitled%201.png)
 
 ## 3. 核心技术
 
@@ -52,7 +47,7 @@ Irina Z：Phd，资深Ai科学家
 
 用户或企业将数据上传到区块链，使用通态加密和ZK算法确保数据的安全性，然后上传数据到云存储的数据中心等待使用。最后，选择适合的NFT模型进行训练。模型提供商上传模型到区块链上，获得训练证明，模型被打包成NFT并进入市场，为用户提供模型服务。平台从数据上传、模型使用和硬件使用的服务中收取2%的手续费。
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%202.png)
+![Untitled](../01_ThestageAI_AI/img/Untitled%202.png)
 
 ## 4. Demo介绍
 
@@ -60,41 +55,41 @@ Irina Z：Phd，资深Ai科学家
 
 搜索引擎 - 上传自己的模型提供服务获得奖励 - 简化训练流程
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%203.png)
+![Untitled](../01_ThestageAI_AI/img/Untitled%203.png)
 
 ### 训练模型
 
 上传数据到项目方的云存储空间 - 选择框架 - 使用项目方的infrastructure训练模型  - 验证模型
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%204.png)
+![Untitled](../01_ThestageAI_AI/img/Untitled%204.png)
 
 ### 加速模型训练 4x
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%205.png)
+![Untitled](../01_ThestageAI_AI/img/Untitled%205.png)
 
 ## 5. 开发进展
 
 Thestage.AI于2022年Q4发起，目前已经建立了web3第一个ai模型的应用平台。平台上已经有超过1000+模型可供选择，收益已经达到了15万美金以上。未来目标是打造一个完整的ai链上生态，为链上有ai需求的人提供服务。他们后续计划增加全同态加密的zk计算来确保隐私安全性，并于2024年Q4上线主网。
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%206.png)
+![Untitled](../01_ThestageAI_AI/img/Untitled%206.png)
 
 ## 6. 竞品分析
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%207.png)
+![Untitled](../01_ThestageAI_AI/img/Untitled%207.png)
 
 ### Thestage_vs_Cortex
 
 总结：Cortex为智能合约增加了AI的能力，能够直接通过Solidity调用智能合约，但无法提供训练和部署模型的服务，也没有模型市场，并且不支持深度学习。Thestage更注重打造全链的AI模型生态，为开发者提供AI服务。区块链在其中扮演的主要角色是市场，同时支持深度学习。
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%208.png)
+![Untitled](./img/Untitled%208.png)
 
 ## 7. 融资需求
 
 本轮融资2%, 100万美元，0.05单价，估值5000万，估值逻辑参照同类竞品得出的估值。
 
-![Untitled](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/Untitled%209.png)
+![Untitled](./img/Untitled%209.png)
 
-[竞品hugging face融资情况](Thestage%20AI%20%E9%A1%B9%E7%9B%AE%E8%AE%B0%E5%BD%95%E8%A1%A8%2080b6e3f0a26748f0bc9cf54cd828a850/%E7%AB%9E%E5%93%81hugging%20face%E8%9E%8D%E8%B5%84%E6%83%85%E5%86%B5%2005f2d9945f704820b1d3a033ce6f4a1f.csv)
+[竞品hugging face融资情况](../01_ThestageAI_AI/img/%E7%AB%9E%E5%93%81hugging%20face%E8%9E%8D%E8%B5%84%E6%83%85%E5%86%B5%2005f2d9945f704820b1d3a033ce6f4a1f_all.csv)
 
 ### Hugging Face融资情况
 
@@ -114,11 +109,11 @@ Hugging Face是一家位于纽约的人工智能公司，专注于开发自然�
 
 ## 8. 媒体
 
-搜狐网：[https://www.sohu.com/a/670506805_121210895](https://www.sohu.com/a/670506805_121210895)
-CSDN：[https://blog.csdn.net/weixin_56136405/article/details/130388070?spm=1001.2014.3001.5501](https://blog.csdn.net/weixin_56136405/article/details/130388070?spm=1001.2014.3001.5501)
-iNFTnews：[https://inftnews.com/95273/](https://inftnews.com/95273/)
-百度：[https://mbd.baidu.com/newspage/data/landingshare?preview=1&pageType=1&isBdboxFrom=1&context={"nid"%3A"news_9711849593793516884"%2C"sourceFrom"%3A"bjh"}](https://mbd.baidu.com/newspage/data/landingshare?preview=1&pageType=1&isBdboxFrom=1&context=%7B%22nid%22%3A%22news_9711849593793516884%22%2C%22sourceFrom%22%3A%22bjh%22%7D)
-Marsbit：[https://news.marsbit.co/20230426143422439452.html](https://news.marsbit.co/20230426143422439452.html)
-今日头条：[https://m.toutiao.com/article/7226263702033449472/?upstream_biz=toutiao_pc&wxshare_count=2](https://m.toutiao.com/article/7226263702033449472/?upstream_biz=toutiao_pc&wxshare_count=2)
-Medium：[https://medium.com/@Web3CN_Pro/独家专访丨thestage-ai-当-ai-邂逅-web3-c43cdb69f22e](https://medium.com/@Web3CN_Pro/%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF%E4%B8%A8thestage-ai-%E5%BD%93-ai-%E9%82%82%E9%80%85-web3-c43cdb69f22e)
-知乎：[https://zhuanlan.zhihu.com/p/625098239](https://zhuanlan.zhihu.com/p/625098239)
+1. 搜狐网：[https://www.sohu.com/a/670506805_121210895](https://www.sohu.com/a/670506805_121210895)
+2. CSDN：[https://blog.csdn.net/weixin_56136405/article/details/130388070?spm=1001.2014.3001.5501](https://blog.csdn.net/weixin_56136405/article/details/130388070?spm=1001.2014.3001.5501)
+3. iNFTnews：[https://inftnews.com/95273/](https://inftnews.com/95273/)
+4. 百度：[https://mbd.baidu.com/newspage/data/landingshare?preview=1&pageType=1&isBdboxFrom=1&context={"nid"%3A"news_9711849593793516884"%2C"sourceFrom"%3A"bjh"}](https://mbd.5.baidu.com/newspage/data/landingshare?preview=1&pageType=1&isBdboxFrom=1&context=%7B%22nid%22%3A%22news_9711849593793516884%22%2C%22sourceFrom%22%3A%22bjh%22%7D)
+6. Marsbit：[https://news.marsbit.co/20230426143422439452.html](https://news.marsbit.co/20230426143422439452.html)
+7. 今日头条：[https://m.toutiao.com/article/7226263702033449472/?upstream_biz=toutiao_pc&wxshare_count=2](https://m.toutiao.com/article/7226263702033449472/?upstream_biz=toutiao_pc&wxshare_count=2)
+8. Medium：[https://medium.com/@Web3CN_Pro/独家专访丨thestage-ai-当-ai-邂逅-web3-c43cdb69f22e](https://medium.com/@Web3CN_Pro/%E7%8B%AC%E5%AE%B6%E4%B8%93%E8%AE%BF%E4%B8%A8thestage-ai-%E5%BD%93-ai-%E9%82%82%E9%80%85-web3-c43cdb69f22e)
+9. 知乎：[https://zhuanlan.zhihu.com/p/625098239](https://zhuanlan.zhihu.com/p/625098239)

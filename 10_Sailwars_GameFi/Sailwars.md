@@ -15,7 +15,7 @@
 
 MODE： PVE、PVP、Alliance 
 
-![Untitled](Sailwars%2035601ec5767645de86d0c221ee3e3e20/Untitled.png)
+![Untitled](./img/Untitled.png)
 
 玩家存钱or玩游戏，玩家获得在游戏里的NFT，使用英雄组队打金，获得Token
 
@@ -29,7 +29,7 @@ MODE： PVE、PVP、Alliance
 
 # 代币经济学
 
-![Untitled](Sailwars%2035601ec5767645de86d0c221ee3e3e20/Untitled%201.png)
+![Untitled](./img/Untitled%201.png)
 
 总量15亿，接近线性释放
 
@@ -49,7 +49,7 @@ MODE： PVE、PVP、Alliance
 - 自称Disney授权
 - HOTDOG “中国元宇宙第一公司”【自称】 种子轮投资，数额不详
 
-![Untitled](Sailwars%2035601ec5767645de86d0c221ee3e3e20/Untitled%202.png)
+![Untitled](./img/Untitled%202.png)
 
 # 社区
 

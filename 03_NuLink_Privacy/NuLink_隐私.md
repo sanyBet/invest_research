@@ -42,7 +42,7 @@ NuLink是一家解决文件加密共享和跨链共享的隐私赛道公司，�
 - 估值8000W USDT，融资6%，480USDT
 - 前三轮融资情况
     
-    ![Untitled](NuLink_%E9%9A%90%E7%A7%81_0423%20b53a4ef8e9e440198e56dbb2b4e1a5b4/Untitled.png)
+    ![Untitled](./img/Untitled.png)
     
     [https://flights.cathaypacific.com/sc_CN/offers/world-of-winners-outbound-hk.html](https://flights.cathaypacific.com/sc_CN/offers/world-of-winners-outbound-hk.html)
     
